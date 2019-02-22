@@ -1,5 +1,5 @@
-package go_mod_with_sql
+package not_a_main
 
-func MySqlCheck() string {
-	return "This is a test of module working v1.0.1"
+func main() {
+
 }

@@ -1,1 +1,1 @@
-module leszekgu/go-mod-with-sql
+module github.com/leszekgu/go-mod-with-sql
